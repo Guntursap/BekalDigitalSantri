@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SantriPunya</string>
+    <string name="al_quran">Al-Qur\'an</string>
+    <string name="yaasin">Yaasin</string>
+    <string name="tahlil">Tahlil</string>
+    <string name="kitab">Kitab</string>
+    <string name="pray">Doa-doa</string>
+    <string name="wirid_not_found">Get Started New Wiridan</string>
+    <string name="wirid_text">Click the + button at the top to\ncreate a new wiridan</string>
+    <string name="imrity">حَتَّى نَحَتْ قُلُـــــــوْبــُهُمْ لِنَـــحْوِهِ *** فَمِنْ عَظِيْمِ شَأْنِهِ لَمْ تَــــــحْوِهِn المقدمة\nاَلحْـَــمْدُللهِ الَّــــــــذِى قَــــدْ وَفَقَ *** لِلْعِلْمِ خَيْرَ خَــــــــلْقِهِ وَللِتُّقَى \</string>
+</resources>
